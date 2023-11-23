@@ -1,15 +1,7 @@
 name: V1_BuildAndDeploy_NodeApp_ToAzureWebApp
 
 on:
-  repository_dispatch:
-  push:
-    paths:
-      - sampleApps/node/webfrontend/**
-      - '!.github/workflows/**'
-      - '.github/workflows/v1.deployNodeAppToAzureWebApp.yml'
-    branches:
-      - master
-      - actions/**
+  [push]
 jobs:
   build:
     runs-on: ubuntu-latest
