@@ -1,3 +1,5 @@
+vmware-key;PROD;5a6ed698-c192-4cab-93a6-295abe49d551;466e87b7-00d3-4bec-9e73-539a2182e691;rg-advspec-migration-lab;vmware-migration-lab;5ea296e1-4978-4025-b74b-ec74ea02091a;8f8c5b90-7769-4fe4-9d6e-95823e1bcb45;https://discoverysrv.sea.prod.migration.windowsazure.com/;southeastasia;false
+
 Test text here
 
 # node-js-sample "webfrontend"
